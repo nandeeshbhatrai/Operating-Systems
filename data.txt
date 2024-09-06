@@ -1,0 +1,6 @@
+cmd 2
+ls 2
+echo 2
+pwd 1
+man 1
+help 1

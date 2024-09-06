@@ -1,0 +1,5 @@
+PID: 35110, PPID: 34721, Command: ls, Exit Status: 0, Time: 2024-08-12 23:21:57.486
+PID: 35581, PPID: 34721, Command: cat, Exit Status: 0, Time: 2024-08-12 23:22:43.492
+PID: 35865, PPID: 34721, Command: ltrace, Exit Status: 0, Time: 2024-08-12 23:23:03.799
+PID: 36698, PPID: 34721, Command: pwd, Exit Status: 0, Time: 2024-08-12 23:24:10.285
+PID: 36962, PPID: 34721, Command: man, Exit Status: 0, Time: 2024-08-12 23:24:31.978
